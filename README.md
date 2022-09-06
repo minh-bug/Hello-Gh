@@ -1,2 +1,2 @@
-# Hello-Gh
-First repo i think 
+# Hello 
+I am a new Python dev
